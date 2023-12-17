@@ -1,4 +1,4 @@
-NOT TO BE USED IR RECREATED FOR PRUPOSE OF ACADEMIC SUBMISSIONS
+NOT TO BE USED OR RECREATED FOR PRUPOSE OF ACADEMIC SUBMISSIONS
 
 # AVL Tree
 - Designed for Data Structures and Algorithms course for the purpose of a course project.
